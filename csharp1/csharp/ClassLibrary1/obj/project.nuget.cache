@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0dxnx4uAlTZIGnqGi2WTr5kUL85qthDXROcktVtH0P/ZZrwuuPA45/EALudE5TNAL4cJkY8dWQL4dMWpLGMUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikit\\Downloads\\csharp\\csharp\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mikit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
